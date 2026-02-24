@@ -1,23 +1,23 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2336BCF7&vCenter=true&height=35&lines=+%E2%9C%93+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+SOC+Analyst;%E2%9C%93+CTF+Player+;%E2%9C%93+Blue+Teamer;)
 
-<h1 align="center">Hi, I'm Faisal a.k.a XOR1</h1>
+<h1 align="center">Hi, I'm Mahaavia Imran a.k.a 0xSimaa</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Blue Teamer | SOC Analyst | DFIR | Threat Hunting |</h3>
 
 ---
 
 ## Certifications:
-<div style="text-align: center;">
+<!--<div style="text-align: center;">
     <img src="Images/CC.png" alt="CC" width="100">
     <img src="Images/ISO.png" alt="Information Security Associate" width="150">
     <img src="Images/google-cybersecurity-professional-certificate-v2.png" alt="Google cybersecurity professional certificate" width="150">
 </div>
-
+-->
 ---
 
 ## Connect with me:
 <p align="left">
 <!-- <a href="https://twitter.com/iabdullah_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iabdullah_215" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/muhammadfaisalfarooq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Faisal Farooq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Faisal Farooq" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Muhammad Faisal Farooq" height="30" width="40" /></a>
 <a href="https://discord.gg/xor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Faisal Farooq" height="30" width="40" /></a> -->
 </p>
