@@ -1,44 +1,243 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2336BCF7&vCenter=true&height=35&lines=+%E2%9C%93+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+SOC+Analyst;%E2%9C%93+CTF+Player+;%E2%9C%93+Blue+Teamer;)
+<!-- ===================================================== -->
 
-<h1 align="center">Hi, I'm Mahaavia Imran aka 0xSimaa</h1>
-<h3 align="center">| Cyber Security Analyst | CTF Player | Blue Teamer | SOC Analyst | DFIR |</h3>
+<!--                       HEADER                          -->
 
-<!--## Certifications:
-<div style="text-align: center;">
-    <img src="Images/CC.png" alt="CC" width="100">
-    <img src="Images/ISO.png" alt="Information Security Associate" width="150">
-    <img src="Images/google-cybersecurity-professional-certificate-v2.png" alt="Google cybersecurity professional certificate" width="150">
+<!-- ===================================================== -->
+
+<div align="center">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
 </div>
--->
----
 
-## Connect with me:
-<p align="left">
-<!-- <a href="https://twitter.com/iabdullah_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iabdullah_215" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/0xsimaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahaavia Imran" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Muhammad Faisal Farooq" height="30" width="40" /></a>
-<a href="https://discord.gg/xor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Faisal Farooq" height="30" width="40" /></a> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=700&color=B24392&size=35&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Mahaavia+Imran;aka+0xsimaa"/>
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF0000&vCenter=true&height=35&width=650&lines=Cybersecurity+Student;Aspiring+Red+Team+Operator;CTF+Player+%7C+Security+Researcher;Linux+User+%7C+Offensive+Security"/>
+</div>
+
+<h3 align="center">
+| Cybersecurity Student @ Air University Islamabad | Offensive Security Enthusiast | Future Red Teamer |
+</h3>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                     ABOUT ME                          -->
+
+<!-- ===================================================== -->
+
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RncHVieGQ3OTFpeGh5YXFuNmJ0cG1qMmhmZGJ3ZnJ1Zmlsa2lzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif"/>
+
+<h3>🧠 About Me</h3>
+
+
+• 🎓 Studying **Cybersecurity at Air University Islamabad**
+
+• ⚔️ Focused on **Red Teaming & Offensive Security**
+
+• 🧪 Practicing through **CTF challenges and security labs**
+
+• 🐧 Main environment: **Ubuntu Linux**
+
+• 🎯 Goal: **Professional Red Team Operator**
+
+<br><br>
+
+<!-- ===================================================== -->
+
+<!--                PROGRAMMING & SCRIPTING                -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>💻 Programming & Scripting</h3>
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45"/>
+
 </p>
 
----
+<br>
 
-## Language and Tools
-<p align="left"> <img src="https://github.com/xor-1/xor-1/blob/main/Images/Wazuh_blue.png" alt="wazuh" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- ===================================================== -->
 
-<!--
-## TryHackMe Stats:
-<img src="https://tryhackme-badges.s3.amazonaws.com/muhammadfaysalfarooq.png" alt="Your Image Badge" />-->
+<!--                   DEVELOPMENT TOOLS                   -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>⚙️ Development Tools</h3>
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" width="45"/>
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                  RED TEAM TOOLKIT                     -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>🛠️ Red Team Toolkit</h3>
+
+<p>
+
+<img src="https://nmap.org/images/nmap-logo-64px.png" width="45" alt="Nmap"/>
+
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" alt="Wireshark"/>
+
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" alt="Burp Suite"/>
+
+<img src="https://cdn.simpleicons.org/metasploit/3F56A7" width="45" alt="Metasploit"/>
+
+<img src="https://img.icons8.com/ios-filled/50/228BE6/ghost.png" width="45" alt="Gobuster"/>
+
+<img src="https://cdn.simpleicons.org/hashcat/FF9900" width="45" alt="Hashcat"/>
+<img src="https://img.icons8.com/color/48/password.png" width="45" alt="Password"/>
+<img src="https://img.icons8.com/color/48/privacy.png" width="45" alt="Security"/>
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                     PLATFORMS                         -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>🏴‍☠️ Practice Platforms</h3>
+
+• TryHackMe (Premium) <img align="middle" width="20" src="https://tryhackme.com/img/favicon.png"/>
+
+• PicoCTF 
+
+• Cisco Networking Academy
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                     WRITEUPS                          -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>📝 Security Writeups</h3>
+
+I document labs, CTF solutions, and offensive security research.
+
+📚 Read them here:
+
+➡️ https://medium.com/@mahaaviaimran999
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                     GITHUB STATS                      -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>📊 GitHub Statistics</h3>
+
+<img align="right" width="340" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
+
+<p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsimaa&show_icons=true&theme=radical&layout=compact"/>
+
+</p>
 
 
+<p>
 
-<!--## GitHub Stats:
-[![XOR_1's GitHub stats](https://github-readme-stats.vercel.app/api?username=xor-1)] -->
+<img src="https://github-readme-stats.vercel.app/api?username=0xsimaa&show_icons=true&theme=radical"/>
+
+</p>
 
 
----
+<p>
 
-- Reach me at:
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0xsimaa&theme=radical"/>
 
- **mahaaviaimran999@gmail.com**
+</p>
 
----
+<br><br>
+
+<!-- ===================================================== -->
+
+<!--                     CONTACT                           -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="75%">
+
+<h3 align="center">📡 Connect With Me</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/0xsimaa">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+
+<a href="mailto:mahaaviaimran999@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+
+<a href="https://medium.com/@mahaaviaimran999">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40"/>
+</a>
+
+<a href="https://discord.com/users/1217526786884239440">
+<img src="https://img.icons8.com/color/48/discord--v2.png" width="40"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+
+<!--                CONTRIBUTION SNAKE GRAPH               -->
+
+<!-- ===================================================== -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+</p>
+
+<!-- Last Edited: 2026 -->
