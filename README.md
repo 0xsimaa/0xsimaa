@@ -68,6 +68,17 @@
 
 <br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>📜 Certifications</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/0xsimaa/0xsimaa/main/Images/ISO_Cert.png" width="160" alt="ISO 27001 Associate"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
 <!-- ===================================================== -->
 
 <!--                   DEVELOPMENT TOOLS                   -->
@@ -170,7 +181,7 @@ I document labs, CTF solutions, and offensive security research.
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsimaa&show_icons=true&theme=radical&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsimaa&show_icons=true&theme=radical"/>
 
 </p>
 
