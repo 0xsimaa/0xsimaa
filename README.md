@@ -149,6 +149,22 @@
 
 <br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>🚩 TryHackMe Stats</h3>
+
+<p>
+  <a href="https://tryhackme.com/p/0xsimaa" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xsimaa.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+<p>
+
+</p>
+
+<br>
+
 <!-- ===================================================== -->
 
 <!--                     WRITEUPS                          -->
