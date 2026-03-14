@@ -132,7 +132,7 @@
 
 • TryHackMe (Premium) <img align="middle" width="20" src="https://tryhackme.com/img/favicon.png"/>  
 
-• PicoCTF  
+• PicoCTF
 
 • Cisco Networking Academy
 
