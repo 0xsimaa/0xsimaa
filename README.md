@@ -41,12 +41,16 @@
 <!-- PROGRAMMING & SCRIPTING -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-
 <h3>💻 Programming & Scripting</h3>
-
 <p>
+     <a href="https://www.w3schools.com/c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+     </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" alt="C#"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
@@ -54,20 +58,13 @@
   <a href="https://www.w3schools.com/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
   </a>
-  <a href="https://www.w3schools.com/c/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-  </a>
+
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="45"/>
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45"/>
-  </a>
 </p>
-
 <br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
 
 <h3>📜 Certifications</h3>
 
@@ -82,9 +79,7 @@
 <!-- DEVELOPMENT TOOLS -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-
 <h3>⚙️ Development Tools</h3>
-
 <p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
@@ -102,7 +97,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" width="45"/>
   </a>
 </p>
-
 <br>
 
 <!-- ===================================================== -->
@@ -116,27 +110,21 @@
   <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://nmap.org/images/nmap-logo-64px.png" width="45" alt="Nmap"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" alt="Wireshark"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://portswigger.net/burp" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" alt="Burp Suite"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/metasploit/3F56A7" width="45" alt="Metasploit"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/OJ/gobuster" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/228BE6/ghost.png" width="45" alt="Gobuster"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://hashcat.net/hashcat/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/hashcat/FF9900" width="45" alt="Hashcat"/>
   </a>
-  &nbsp;&nbsp;
   <!-- The last two seem generic – left them without links as before -->
   <img src="https://img.icons8.com/color/48/password.png" width="45" alt="Password"/>
   &nbsp;&nbsp;
