@@ -127,7 +127,6 @@
   </a>
   <!-- The last two seem generic – left them without links as before -->
   <img src="https://img.icons8.com/color/48/password.png" width="45" alt="Password"/>
-  &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/privacy.png" width="45" alt="Security"/>
 </p>
 
