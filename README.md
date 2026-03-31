@@ -175,8 +175,9 @@ I document labs, CTF solutions, and offensive security research.
 <br>
 
 <!-- ===================================================== -->
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS (FIXED) -->
 <!-- ===================================================== -->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 
 <h3>📊 GitHub Statistics</h3>
@@ -184,18 +185,19 @@ I document labs, CTF solutions, and offensive security research.
 <img align="right" width="340" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsimaa&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=0xsimaa&show_icons=true&theme=radical" alt="Top Languages"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=0xsimaa&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=0xsimaa&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=0xsimaa&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xsimaa&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <br><br>
+
 
 <!-- ===================================================== -->
 <!-- CONTACT -->
